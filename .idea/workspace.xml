@@ -14,8 +14,8 @@
       <file leaf-file-name="data_preprocessing.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../MLAtoZDataPreprocessing/data_preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="216">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -36,6 +36,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/data_preprocessing.py" />
+        <option value="$PROJECT_DIR$/../MLAtoZDataPreprocessing/data_preprocessing.py" />
       </list>
     </option>
   </component>
@@ -181,7 +182,7 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="data_preprocessing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="data_preprocessing (1)" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -220,9 +221,8 @@
       <item index="1" class="java.lang.String" itemvalue="Python.data_preprocessing (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.data_preprocessing (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.data_preprocessing" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.data_preprocessing" />
       </list>
     </recent_temporary>
   </component>
@@ -289,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../MLAtoZDataPreprocessing/data_preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="216">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

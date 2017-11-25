@@ -7,7 +7,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
-dataset = pd.read_csv("C:\\Users\\Gustavo\\Documents\\Big data e Cloud\\Machine_Learning_AZ_Template_Folder\\Machine Learning A-Z Template Folder\\Part 1 - Data Preprocessing\\Data_Preprocessing\\Data.csv")
+dataset = pd.read_csv("PATH TO FILE CSV")
 
 # Independent values matrix creation
 X = dataset.iloc[:, :-1].values
